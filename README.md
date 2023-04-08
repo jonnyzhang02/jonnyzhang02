@@ -9,6 +9,3 @@
  * Copyright (c) 2023 by zhangynag0207@bupt.edu.cn, All Rights Reserved. 
 -->
 # HI,I'm ZHANG
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
