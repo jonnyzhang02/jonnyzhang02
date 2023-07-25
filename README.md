@@ -10,4 +10,4 @@
 -->
 # HI
 
-My email is : edyerfrh@gmail.com
+edyerfrh@gmail.com
