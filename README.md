@@ -10,7 +10,11 @@
 -->
 # HI
 
-edyerfrh@gmail.com
+  edyerfrh@gmail.com
+  
+  [![wakatime](https://wakatime.com/badge/user/e3d6d5be-b762-419f-9f8e-37e1c5d73ab6.svg)](https://wakatime.com/@e3d6d5be-b762-419f-9f8e-37e1c5d73ab6)
 
+  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/JohnnyZhang02.svg?style=social&label=%20%40JohnnyZhang02)](https://twitter.com/JohnnyZhang02)
 
-[![wakatime](https://wakatime.com/badge/user/e3d6d5be-b762-419f-9f8e-37e1c5d73ab6.svg)](https://wakatime.com/@e3d6d5be-b762-419f-9f8e-37e1c5d73ab6)
+  
+  
