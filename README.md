@@ -11,3 +11,6 @@
 # HI
 
 edyerfrh@gmail.com
+
+
+[![wakatime](https://wakatime.com/badge/user/e3d6d5be-b762-419f-9f8e-37e1c5d73ab6.svg)](https://wakatime.com/@e3d6d5be-b762-419f-9f8e-37e1c5d73ab6)
